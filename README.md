@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Antonio Oter</h1>
-- 🌱 Estudiante de <strong>Ingeniería Informática en la UCLM</strong>
+- 🌱 Estudiante de <strong>Ingeniería Informática en la UCLM</strong> <br>
 - Actualmente trabajo con la cuenta de Github de la empresa, por ese motivo no se ven reflejadas mis contribuciones
 
 <h3 align="left">Languages and Tools:</h3>
